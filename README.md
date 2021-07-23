@@ -3,4 +3,4 @@
 
  This repository has been created during a live.
  
- add line (directcly web)
+ add line (direct web)
